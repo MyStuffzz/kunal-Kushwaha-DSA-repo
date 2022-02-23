@@ -1,1 +1,2 @@
 lectures/ filter=lfs diff=lfs merge=lfs -text
+kunal_.gif filter=lfs diff=lfs merge=lfs -text
