@@ -4,8 +4,8 @@
 test/
 build/
 preruns/
-.idea/
-
+*.idea/
+*.iml
 # Prerequisites
 *.d
 
