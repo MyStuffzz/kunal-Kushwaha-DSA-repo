@@ -4,6 +4,7 @@
 test/
 build/
 preruns/
+.idea/
 
 # Prerequisites
 *.d
